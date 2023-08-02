@@ -12,6 +12,9 @@
 `git config user.name` e `git config user.email`
 Verificar usuário/email
 
+`git config --global user.name "seu nome"` e `gitconfig --global user.email "seu email"`
+Mudar usuário e e-mail de forma global.
+
 Inicializar um repositório (executado dentro da pasta)
 `git init`
 
