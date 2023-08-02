@@ -15,15 +15,15 @@ Verificar usuário/email
 `git config --global user.name "seu nome"` e `gitconfig --global user.email "seu email"`
 Mudar usuário e e-mail de forma global.
 
-Inicializar um repositório (executado dentro da pasta)
 `git init`
+Inicializar um repositório (executado dentro da pasta)
 
 `git branch nome-branch-atual novo-nome-para-branch`
 renomear branches
 renomear a branch de **master** para **main** (novo padrão), usaríamos: `git branch master main`
 
-Verificar o status atual do repositório
 `git status`
+Verificar o status atual do repositório
 
 `git add nomearquivo`
 Adicionar (tornar arquivo rastreável) ao monitoramento da git
